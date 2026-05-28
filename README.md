@@ -42,10 +42,12 @@ Witch_Kirki/
 
 ## 🛠️ Setup Instructions
 
+
 ### Prerequisites
 - MongoDB Community Server
 - MongoDB Shell (mongosh)
 - VS Code with MongoDB for VS Code extension
+- MongoDB Compass (for visual data exploration and aggregation pipeline building)
 
 ### Installation
 
@@ -83,6 +85,7 @@ Then re-run all insert files in order.
 
 
 ## 🔧 Technologies
+
 
 - **MongoDB** 8.2.5
 - **MongoDB Shell** (mongosh) 2.8.3
