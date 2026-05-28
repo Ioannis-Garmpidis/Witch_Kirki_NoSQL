@@ -1,2 +1,1 @@
-# Witch_Kirki_NoSQL
-02:16Claude responded: NoSQL database implementation for a pet shop e-commerce platform using MongoDB.NoSQL database implementation for a pet shop e-commerce platform using MongoDB. Includes schema validation, CRUD operations, indexes, aggregation pipelines and a recommendation engine.
+NoSQL database implementation for a pet shop e-commerce platform using MongoDB.NoSQL database implementation for a pet shop e-commerce platform using MongoDB. Includes schema validation, CRUD operations, indexes, aggregation pipelines and a recommendation engine.
