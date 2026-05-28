@@ -15,6 +15,7 @@ This project implements a complete NoSQL database solution for an e-commerce pet
 ## 🗂️ File Structure
 
 Witch_Kirki/
+
 ├── schemas.mongodb.js              # Collection creation with schema validation
 
 ├── insert_products.mongodb.js      # Product data insertion
