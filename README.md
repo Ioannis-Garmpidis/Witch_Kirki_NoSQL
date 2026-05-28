@@ -39,6 +39,7 @@ Witch_Kirki/
 └── reset_database.mongodb.js       # Database reset utility
 
 
+
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
@@ -79,6 +80,7 @@ Then re-run all insert files in order.
 | category_revenue_summary | — | Revenue analytics per category |
 | customer_lifetime_value | — | Customer value analytics |
 | product_performance | — | Product rating analytics |
+
 
 ## 🔧 Technologies
 
