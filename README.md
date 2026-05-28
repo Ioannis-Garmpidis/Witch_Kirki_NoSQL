@@ -16,16 +16,27 @@ This project implements a complete NoSQL database solution for an e-commerce pet
 
 Witch_Kirki/
 ├── schemas.mongodb.js              # Collection creation with schema validation
+
 ├── insert_products.mongodb.js      # Product data insertion
+
 ├── insert_customers.mongodb.js     # Customer data insertion
+
 ├── insert_orders.mongodb.js        # Orders with dynamic ObjectId references
+
 ├── insert_reviews.mongodb.js       # Reviews with dynamic ObjectId references
+
 ├── insert_inventory.mongodb.js     # Inventory logs with dynamic ObjectId references
+
 ├── crud_operations.mongodb.js      # READ, UPDATE, DELETE operations
+
 ├── indexes.mongodb.js              # Index creation and performance analysis
+
 ├── aggregation.mongodb.js          # Aggregation pipelines
+
 ├── schema_violations.mongodb.js    # Schema validation testing
+
 └── reset_database.mongodb.js       # Database reset utility
+
 
 ## 🛠️ Setup Instructions
 
